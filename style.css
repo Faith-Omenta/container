@@ -1,0 +1,49 @@
+.container{
+  padding-left: 20px;
+    height:600px;
+    border:2px gray;
+    background-image: url('bag.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.nav{
+    flex:1px;
+   }
+  .lin{
+    margin-left: 600px;
+  }
+  .lin{
+    margin-top: -10%;
+    
+
+    
+  }
+  .h1{
+    margin-right: 800px;
+    margin-bottom: 2%;
+    margin-bottom:50px ;
+  }
+  
+  .nav,li{
+    display:inline-block;
+    margin:0px 20px;
+    text-decoration: none;
+    color: rgb(16, 17, 17);
+
+    
+    }
+content{
+    font-size: 60px;
+    font-weight: 100px;}
+container1{
+    display:flex 3px;
+}
+button{
+  background-color: rgb(188, 230, 104);
+  margin: 30px 50px;
+  padding: 18px 20px;
+  font-weight: bold;
+  border-radius: 35px;
+  
+}
